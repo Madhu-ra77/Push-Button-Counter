@@ -15,7 +15,6 @@
 **DISCRIPTION** 
 
             The project described focuses on creating a temperature sensor circuit that works with a push-button counter using the Tinkercad simulation platform. It demonstrates how an Arduino microcontroller, a temperature sensor, and a push button can be integrated into a single interactive system, where the temperature is measured and displayed, and the push button controls specific actions, like cycling through modes or incrementing a counter. The system also includes an LCD display to show the real-time temperature data and button-activated changes.
-
 **Components Used**:
 Temperature Sensor (LM35 or DHT11): The LM35 is an analog temperature sensor, providing a voltage that is directly proportional to the temperature in Celsius. Alternatively, the DHT11 is a digital sensor that outputs both temperature and humidity data. These sensors are the core components for measuring the environmental temperature.
 
